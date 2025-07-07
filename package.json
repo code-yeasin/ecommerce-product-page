@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/code-yeasin/ecommerce-product-page.git",
+  "homepage": "https://code-yeasin.github.io/ecommerce-product-page",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
