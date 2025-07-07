@@ -1,13 +1,21 @@
 ## E-commerce product page // Frontend Mentor Project // React and CSS
 
 - [see project](https://code-yeasin.github.io/ecommerce-product-page/)
-- The project is an e-commerce product page where the users should be able to:
-  - Use Navbar and toggle Sidebar
-  - Open a lightbox gallery by clicking on the large product image
-  - Image Slider Carousel on small screen
-  - Switch the large product image by clicking on the small thumbnail images
-  - Add items to the cart
-  - View the cart and remove items from it; Update shopping cart on LocalStorage.
+- E-commerce Product Page - Feature Overview
+
+Navbar and Sidebar
+- Users can navigate using a top Navbar
+- Sidebar can be toggled for additional menu access
+
+Product Gallery
+- Clicking the main product image opens a lightbox gallery
+- On small screens, an image slider carousel is displayed
+- Clicking thumbnail images updates the main product display
+
+Shopping Cart
+- Users can add products to the cart
+- Cart can be viewed and items can be removed
+- Cart state is stored in LocalStorage for persistence
 
 <p align-items: center>
     <img src='./readme-images/Screenshot-ecommers-product-page-01.png' width='250'>
