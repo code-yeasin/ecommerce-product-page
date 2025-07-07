@@ -1,6 +1,6 @@
 ## E-commerce product page // Frontend Mentor Project // React and CSS
 
-- [see project](https://sweta-e-commers-product-page-fm.netlify.app)
+- [see project](https://code-yeasin.github.io/ecommerce-product-page/)
 - The project is an e-commerce product page where the users should be able to:
   - Use Navbar and toggle Sidebar
   - Open a lightbox gallery by clicking on the large product image
